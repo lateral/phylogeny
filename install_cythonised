@@ -1,0 +1,3 @@
+#!/bin/bash
+# run to install or update after changes
+python3 setup.py build_ext --inplace
